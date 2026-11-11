@@ -1,0 +1,6 @@
+{
+  "status": "PASS",
+  "midpoint_moment_lower_series": "t*(t**2 - 36*t + 288)/576",
+  "clock_variance_from_integrated_covariance": "8*t/135 - 8/405 + 8*exp(-3*t)/405",
+  "scope": "Symbolic algebra only; not a verification of the stochastic limit interchanges."
+}

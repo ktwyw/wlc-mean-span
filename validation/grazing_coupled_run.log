@@ -1,0 +1,4 @@
+lambda 0.01 max absolute paired difference 0.0001
+lambda 0.05 max absolute paired difference 0.0008333333333333334
+lambda 0.002 max absolute paired difference 3.3333333333333335e-05
+Wrote coupled grazing-return records.

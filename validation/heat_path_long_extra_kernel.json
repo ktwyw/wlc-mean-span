@@ -1,0 +1,125 @@
+[
+  {
+    "h": 0.0762939453125,
+    "grid": 24001,
+    "lmax": 33,
+    "qmax": 26.2144,
+    "max_monotone_clip": 1.8349167175013855e-16,
+    "max_moment_error": 3.302771711677366e-08,
+    "moments": [
+      {
+        "ell": 1,
+        "computed": 0.9265438056338579,
+        "exact": 0.9265438133162349,
+        "absolute_difference": 7.68237706783026e-09
+      },
+      {
+        "ell": 2,
+        "computed": 0.7954224987334305,
+        "exact": 0.7954225183083389,
+        "absolute_difference": 1.9574908360908694e-08
+      },
+      {
+        "ell": 3,
+        "computed": 0.6326969526235485,
+        "exact": 0.6326969826319796,
+        "absolute_difference": 3.000843107336948e-08
+      },
+      {
+        "ell": 4,
+        "computed": 0.46629372887259596,
+        "exact": 0.4662937619003131,
+        "absolute_difference": 3.302771711677366e-08
+      },
+      {
+        "ell": 5,
+        "computed": 0.31841196243573505,
+        "exact": 0.3184119864969082,
+        "absolute_difference": 2.4061173165002003e-08
+      }
+    ],
+    "qualification": "finite series and numerical inverse CDF, no exact-sampling or continuum-path claim"
+  },
+  {
+    "h": 0.0762939453125,
+    "grid": 24001,
+    "lmax": 33,
+    "qmax": 26.2144,
+    "max_monotone_clip": 1.8349167175013855e-16,
+    "max_moment_error": 3.302771711677366e-08,
+    "moments": [
+      {
+        "ell": 1,
+        "computed": 0.9265438056338579,
+        "exact": 0.9265438133162349,
+        "absolute_difference": 7.68237706783026e-09
+      },
+      {
+        "ell": 2,
+        "computed": 0.7954224987334305,
+        "exact": 0.7954225183083389,
+        "absolute_difference": 1.9574908360908694e-08
+      },
+      {
+        "ell": 3,
+        "computed": 0.6326969526235485,
+        "exact": 0.6326969826319796,
+        "absolute_difference": 3.000843107336948e-08
+      },
+      {
+        "ell": 4,
+        "computed": 0.46629372887259596,
+        "exact": 0.4662937619003131,
+        "absolute_difference": 3.302771711677366e-08
+      },
+      {
+        "ell": 5,
+        "computed": 0.31841196243573505,
+        "exact": 0.3184119864969082,
+        "absolute_difference": 2.4061173165002003e-08
+      }
+    ],
+    "qualification": "finite series and numerical inverse CDF, no exact-sampling or continuum-path claim"
+  },
+  {
+    "h": 0.0762939453125,
+    "grid": 24001,
+    "lmax": 33,
+    "qmax": 26.2144,
+    "max_monotone_clip": 1.8349167175013855e-16,
+    "max_moment_error": 3.302771711677366e-08,
+    "moments": [
+      {
+        "ell": 1,
+        "computed": 0.9265438056338579,
+        "exact": 0.9265438133162349,
+        "absolute_difference": 7.68237706783026e-09
+      },
+      {
+        "ell": 2,
+        "computed": 0.7954224987334305,
+        "exact": 0.7954225183083389,
+        "absolute_difference": 1.9574908360908694e-08
+      },
+      {
+        "ell": 3,
+        "computed": 0.6326969526235485,
+        "exact": 0.6326969826319796,
+        "absolute_difference": 3.000843107336948e-08
+      },
+      {
+        "ell": 4,
+        "computed": 0.46629372887259596,
+        "exact": 0.4662937619003131,
+        "absolute_difference": 3.302771711677366e-08
+      },
+      {
+        "ell": 5,
+        "computed": 0.31841196243573505,
+        "exact": 0.3184119864969082,
+        "absolute_difference": 2.4061173165002003e-08
+      }
+    ],
+    "qualification": "finite series and numerical inverse CDF, no exact-sampling or continuum-path claim"
+  }
+]

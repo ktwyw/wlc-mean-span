@@ -1,0 +1,15 @@
+\begin{table}[ht]
+\centering
+\caption{Regression agreement among equivalent finite-order solver formulations over the audited transform samples.}
+\par\raggedright\textbf{Alt text:} Equivalent spectral solver implementations agree closely at the audited transform parameters.\par\centering
+
+\label{tab:solver_regression}
+\begin{tabular}{lr}
+\toprule
+Comparison & maximum relative discrepancy\\
+\midrule
+Nodal eigensolve vs ordered Schur & 5.794e-12\\
+Nodal eigensolve vs symmetric pencil (real $s>0$) & 3.473e-11\\
+\bottomrule
+\end{tabular}
+\end{table}

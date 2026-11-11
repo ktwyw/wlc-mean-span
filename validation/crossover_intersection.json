@@ -1,0 +1,19 @@
+{
+  "lambda_star": 6.790610905254201,
+  "angular_orders": [
+    32,
+    48,
+    64,
+    96
+  ],
+  "F_orders": [
+    2.203721331169954,
+    2.2036897838843004,
+    2.203681996898706,
+    2.203677962055205
+  ],
+  "F_extrapolated": 2.2036762481350936,
+  "intersection_leading_value": 3.3953054526271007,
+  "relative_excess_percent": 54.074603994141526,
+  "qualification": "The angular-order extrapolation is empirical and is not a certified enclosure."
+}

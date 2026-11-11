@@ -1,0 +1,12 @@
+{
+  "reported_B": 0.6468,
+  "reported_half_range": 0.0004,
+  "stable_audit_min": 0.6466313862219033,
+  "stable_audit_max": 0.6470497786312694,
+  "stable_audit_median": 0.6467939463591743,
+  "stable_audit_computed_half_range": 0.0002497786312694039,
+  "stable_audit_count": 60,
+  "primary_s_min": 0.0001,
+  "primary_s_max": 0.003,
+  "primary_polynomial_degree": 2
+}

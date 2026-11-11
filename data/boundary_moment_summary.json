@@ -1,0 +1,35 @@
+{
+  "method": "reduced symmetric stationary pencil; analytic removal of null/Jordan sector",
+  "maximum_M1_residual": 3.2085445411667024e-14,
+  "maximum_M2_residual": 3.802513859341161e-14,
+  "maximum_integrated_remainder_residual": 1.9295329223290025e-14,
+  "maximum_incoming_residual": 1.0880185641326534e-14,
+  "old_nodal_z_discrepancies": {
+    "64": 2.9976021664879227e-15,
+    "128": 3.9968028886505635e-15
+  },
+  "highest_order": {
+    "m": 512,
+    "z_M": 0.7182116284566675,
+    "M0": 1.1011229798401772,
+    "M1": 0.6666666666666345,
+    "M2": 0.478807752304407,
+    "M3": 0.3737726440358251,
+    "M4": 0.30661537319268684,
+    "B_from_moments": 0.6468006464280569,
+    "variance_flux": 0.04483102280335938,
+    "B_lower_bound": 0.44151897547588553,
+    "B_upper_bound": 0.7052127807024529,
+    "I_direct": -0.013113677982068162,
+    "I_from_M3": -0.013113677982087457,
+    "a2_reciprocal": 0.4400527323435575,
+    "M1_residual": -3.2085445411667024e-14,
+    "M2_residual": -3.802513859341161e-14,
+    "I_residual": 1.9295329223290025e-14,
+    "B_representation_residual": 7.549516567451064e-14,
+    "incoming_residual": 1.0880185641326534e-14,
+    "outgoing_min": 0.08644557899208627
+  },
+  "provenance": "Stationary calculations executed in this revision; small-s comparisons use archived values.",
+  "qualification": "Finite-order values are not certified continuum enclosures."
+}

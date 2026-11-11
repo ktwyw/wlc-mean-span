@@ -1,0 +1,80 @@
+{
+  "fits": [
+    {
+      "range": [
+        0.05,
+        0.2
+      ],
+      "degree": 1,
+      "coefficients": [
+        0.00554440111010797,
+        -0.0004903319943730037
+      ],
+      "cubic_extrapolated": 0.00554440111010797
+    },
+    {
+      "range": [
+        0.05,
+        0.2
+      ],
+      "degree": 2,
+      "coefficients": [
+        0.005545073937172629,
+        -0.0005035397592725488,
+        5.246920302555998e-05
+      ],
+      "cubic_extrapolated": 0.005545073937172629
+    },
+    {
+      "range": [
+        0.075,
+        0.3
+      ],
+      "degree": 1,
+      "coefficients": [
+        0.005543701702088842,
+        -0.0004848879957388392
+      ],
+      "cubic_extrapolated": 0.005543701702088842
+    },
+    {
+      "range": [
+        0.075,
+        0.3
+      ],
+      "degree": 2,
+      "coefficients": [
+        0.005544851522414441,
+        -0.0005000668043484914,
+        4.0287973085225545e-05
+      ],
+      "cubic_extrapolated": 0.005544851522414441
+    },
+    {
+      "range": [
+        0.1,
+        0.5
+      ],
+      "degree": 1,
+      "coefficients": [
+        0.005542097206189355,
+        -0.0004759415578006785
+      ],
+      "cubic_extrapolated": 0.005542097206189355
+    },
+    {
+      "range": [
+        0.1,
+        0.5
+      ],
+      "degree": 2,
+      "coefficients": [
+        0.005544747036481356,
+        -0.0004989223868817726,
+        3.751972094871637e-05
+      ],
+      "cubic_extrapolated": 0.005544747036481356
+    }
+  ],
+  "status": "Exploratory extrapolation assuming an analytic next term; not a proof or certified error."
+}

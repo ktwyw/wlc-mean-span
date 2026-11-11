@@ -1,0 +1,35 @@
+{
+  "fit_range": [
+    100.0,
+    1500.0
+  ],
+  "basis": [
+    -1.5,
+    -2.5
+  ],
+  "c2_lambda_m3_2": -0.0643243280615601,
+  "c4_lambda_m5_2": 0.0013864830340939566,
+  "refit_lambda_m1_coefficient": 4.5330272932279616e-05,
+  "refit_B_shift": 1.0585278758989793e-06,
+  "max_abs_rel_residual_1e3_to_2e4": 2.6830175625106685e-09,
+  "max_abs_rel_residual_over_eps_1e3_to_2e4": 0.12845852829358653,
+  "max_abs_rel_residual_1e3_to_2e4_with_lambda_m1": 2.7251796528908877e-09,
+  "max_abs_rel_residual_1e3_to_2e4_with_lambda_m1_2": 2.787639009093773e-09,
+  "max_abs_rel_residual_1e3_to_2e4_with_lambda_m2_instead": 2.683212204993815e-09,
+  "max_abs_rel_residual_1e3_to_2e4_fit_100_to_700": 2.682716323094589e-09,
+  "c2_fit_100_to_700": -0.06434645909175346,
+  "max_abs_A_change_over_eps_lambda_ge_1e4": 1.3778648427055407,
+  "rel_residual_above_2e4": {
+    "30000.0": 8.002245606032464e-09,
+    "50000.0": 5.433245958800082e-09,
+    "75000.0": 3.9896507250258036e-08,
+    "100000.0": -1.208414068233801e-08
+  },
+  "residual_over_eps_above_2e4": {
+    "30000.0": 0.4071207034238502,
+    "50000.0": 0.20424623332141045,
+    "75000.0": 0.9573552992866371,
+    "100000.0": -0.4400278987507594
+  },
+  "note": "Conditional on the long-chain expansion; z_M and B from the stationary Milne problem (no Laplace inversion)."
+}

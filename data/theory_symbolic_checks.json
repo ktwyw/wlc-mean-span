@@ -1,0 +1,81 @@
+{
+  "symbolic_residuals": {
+    "slow_order_k": "0",
+    "slow_order_k2": "0",
+    "slow_order_k3": "0",
+    "s4_coefficient": "0",
+    "mean_phi2": "0",
+    "mean_phi3": "0",
+    "stationary_far_field": "0",
+    "second_order_inhomogeneous_equation": "0",
+    "reciprocal_far_polynomial": "0",
+    "reciprocal_integration_constant": "0",
+    "B_moment_formula": "0",
+    "B_variance_formula": "0",
+    "positive_lower_bound": "0",
+    "three_dimensional_grazing_coefficient": "0",
+    "stiffness_first_derivative": "0",
+    "stiffness_second_derivative": "0"
+  },
+  "number_symbolic_checks": 16,
+  "dimensions_checked": [
+    {
+      "D": 2,
+      "pi0": 0.31830988618379075,
+      "a0": 2.0,
+      "mu": 0.6366197723675815,
+      "absolute_c2": 0.06134096765000135,
+      "relative_c2": 0.09635416666666667
+    },
+    {
+      "D": 3,
+      "pi0": 0.5,
+      "a0": 1.0,
+      "mu": 0.5,
+      "absolute_c2": 0.048177083333333336,
+      "relative_c2": 0.09635416666666667
+    },
+    {
+      "D": 4,
+      "pi0": 0.6366197723675815,
+      "a0": 0.6666666666666666,
+      "mu": 0.4244131815783876,
+      "absolute_c2": 0.04089397843333423,
+      "relative_c2": 0.09635416666666669
+    },
+    {
+      "D": 5,
+      "pi0": 0.7500000000000001,
+      "a0": 0.5,
+      "mu": 0.37500000000000006,
+      "absolute_c2": 0.03613281250000001,
+      "relative_c2": 0.09635416666666667
+    },
+    {
+      "D": 6,
+      "pi0": 0.8488263631567752,
+      "a0": 0.4,
+      "mu": 0.33953054526271004,
+      "absolute_c2": 0.032715182746667376,
+      "relative_c2": 0.09635416666666667
+    },
+    {
+      "D": 7,
+      "pi0": 0.9375000000000002,
+      "a0": 0.3333333333333333,
+      "mu": 0.31250000000000006,
+      "absolute_c2": 0.030110677083333343,
+      "relative_c2": 0.09635416666666669
+    },
+    {
+      "D": 8,
+      "pi0": 1.0185916357881302,
+      "a0": 0.2857142857142857,
+      "mu": 0.2910261816537515,
+      "absolute_c2": 0.028041585211429177,
+      "relative_c2": 0.09635416666666666
+    }
+  ],
+  "status": "All listed algebraic and normalization checks passed.",
+  "not_proved_by_code": "Uniform first-passage convergence, half-space existence/uniqueness, and asymptotic remainder estimates; see explicit SI assumptions."
+}

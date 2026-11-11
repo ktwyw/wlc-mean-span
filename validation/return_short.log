@@ -1,0 +1,3 @@
+{'lam': 0.01, 'steps': 1024, 'dt': 9.765625e-06, 'n': 120000, 'seed': 2501024, 'mean_half_truncated_return': 0.004995703563158742, 'se': 3.4022659660643875e-07, 'returned_fraction': 0.0017583333333333333, 'sample_file': 'return_l0.01_n1024_seed2501024.npz'}
+{'lam': 0.025, 'steps': 1024, 'dt': 2.44140625e-05, 'n': 120000, 'seed': 2511024, 'mean_half_truncated_return': 0.012470435449601613, 'se': 1.4201873858621506e-06, 'returned_fraction': 0.004841666666666667, 'sample_file': 'return_l0.025_n1024_seed2511024.npz'}
+{'lam': 0.05, 'steps': 1024, 'dt': 4.8828125e-05, 'n': 120000, 'seed': 2521024, 'mean_half_truncated_return': 0.02487776549492175, 'se': 4.106023070290929e-06, 'returned_fraction': 0.009616666666666667, 'sample_file': 'return_l0.05_n1024_seed2521024.npz'}

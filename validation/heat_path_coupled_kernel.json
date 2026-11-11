@@ -1,0 +1,166 @@
+[
+  {
+    "h": 0.0001953125,
+    "grid": 24002,
+    "lmax": 598,
+    "qmax": 44.0,
+    "max_monotone_clip": 1.6911603615888266e-15,
+    "max_moment_error": 8.183683730678126e-10,
+    "moments": [
+      {
+        "ell": 1,
+        "computed": 0.9998047065175373,
+        "exact": 0.9998047065722446,
+        "absolute_difference": 5.4707349761429214e-11
+      },
+      {
+        "ell": 2,
+        "computed": 0.9994142339637963,
+        "exact": 0.9994142341278542,
+        "absolute_difference": 1.6405798941576677e-10
+      },
+      {
+        "ell": 3,
+        "computed": 0.9988288110494418,
+        "exact": 0.9988288113773655,
+        "absolute_difference": 3.2792368820366846e-10
+      },
+      {
+        "ell": 4,
+        "computed": 0.998048780561363,
+        "exact": 0.9980487811074755,
+        "absolute_difference": 5.461124885641766e-10
+      },
+      {
+        "ell": 5,
+        "computed": 0.9970745990281716,
+        "exact": 0.99707459984654,
+        "absolute_difference": 8.183683730678126e-10
+      }
+    ],
+    "qualification": "finite series and numerical inverse CDF, no exact-sampling or continuum-path claim"
+  },
+  {
+    "h": 0.0009765625,
+    "grid": 24002,
+    "lmax": 269,
+    "qmax": 44.0,
+    "max_monotone_clip": 8.235322908921466e-16,
+    "max_moment_error": 4.047710389087911e-09,
+    "moments": [
+      {
+        "ell": 1,
+        "computed": 0.9990239139084033,
+        "exact": 0.9990239141819757,
+        "absolute_difference": 2.7357238696623654e-10
+      },
+      {
+        "ell": 2,
+        "computed": 0.9970745990274252,
+        "exact": 0.99707459984654,
+        "absolute_difference": 8.191147760072681e-10
+      },
+      {
+        "ell": 3,
+        "computed": 0.9941577560257089,
+        "exact": 0.9941577576591378,
+        "absolute_difference": 1.633428947656057e-09
+      },
+      {
+        "ell": 4,
+        "computed": 0.99028190116187,
+        "exact": 0.9902819038736084,
+        "absolute_difference": 2.7117383893937586e-09
+      },
+      {
+        "ell": 5,
+        "computed": 0.9854583248567956,
+        "exact": 0.985458328904506,
+        "absolute_difference": 4.047710389087911e-09
+      }
+    ],
+    "qualification": "finite series and numerical inverse CDF, no exact-sampling or continuum-path claim"
+  },
+  {
+    "h": 0.0048828125,
+    "grid": 24002,
+    "lmax": 122,
+    "qmax": 44.0,
+    "max_monotone_clip": 5.462115907961813e-16,
+    "max_moment_error": 1.915595670975989e-08,
+    "moments": [
+      {
+        "ell": 1,
+        "computed": 0.9951290876813101,
+        "exact": 0.9951290890500631,
+        "absolute_difference": 1.3687529998307468e-09
+      },
+      {
+        "ell": 2,
+        "computed": 0.9854583248383144,
+        "exact": 0.985458328904506,
+        "absolute_difference": 4.066191605645031e-09
+      },
+      {
+        "ell": 3,
+        "computed": 0.9711281099941051,
+        "exact": 0.9711281180072616,
+        "absolute_difference": 8.013156471697869e-09
+      },
+      {
+        "ell": 4,
+        "computed": 0.9523447868018617,
+        "exact": 0.9523447998951764,
+        "absolute_difference": 1.3093314654710753e-08
+      },
+      {
+        "ell": 5,
+        "computed": 0.9293757004293819,
+        "exact": 0.9293757195853386,
+        "absolute_difference": 1.915595670975989e-08
+      }
+    ],
+    "qualification": "finite series and numerical inverse CDF, no exact-sampling or continuum-path claim"
+  },
+  {
+    "h": 0.01220703125,
+    "grid": 24002,
+    "lmax": 78,
+    "qmax": 44.0,
+    "max_monotone_clip": 5.054525980064297e-16,
+    "max_moment_error": 4.304011225197968e-08,
+    "moments": [
+      {
+        "ell": 1,
+        "computed": 0.9878671688879368,
+        "exact": 0.9878671723140003,
+        "absolute_difference": 3.426063543976454e-09
+      },
+      {
+        "ell": 2,
+        "computed": 0.9640413374181486,
+        "exact": 0.9640413474459166,
+        "absolute_difference": 1.0027768060361097e-08
+      },
+      {
+        "ell": 3,
+        "computed": 0.9293757002658775,
+        "exact": 0.9293757195853386,
+        "absolute_difference": 1.931946114197558e-08
+      },
+      {
+        "ell": 4,
+        "computed": 0.885086103086578,
+        "exact": 0.8850861336959348,
+        "absolute_difference": 3.0609356826971634e-08
+      },
+      {
+        "ell": 5,
+        "computed": 0.8326802863121042,
+        "exact": 0.8326803293522165,
+        "absolute_difference": 4.304011225197968e-08
+      }
+    ],
+    "qualification": "finite series and numerical inverse CDF, no exact-sampling or continuum-path claim"
+  }
+]

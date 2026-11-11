@@ -1,0 +1,50 @@
+{
+  "seed": 848120,
+  "n": 250000,
+  "mean": 0.00029195522913478384,
+  "second_moment": 0.9971412305856246,
+  "fourth_moment": 2.994072521602958,
+  "conditional_bins": [
+    {
+      "range": [
+        -1,
+        -0.5
+      ],
+      "n": 62385,
+      "mean": -0.0012308989964213556,
+      "second_moment": 0.9958888747463054,
+      "fourth_moment": 3.008931644506989
+    },
+    {
+      "range": [
+        -0.5,
+        0
+      ],
+      "n": 62364,
+      "mean": 0.0005829093696367753,
+      "second_moment": 0.9972874504907914,
+      "fourth_moment": 2.986049492259457
+    },
+    {
+      "range": [
+        0,
+        0.5
+      ],
+      "n": 62430,
+      "mean": 0.00041233688638007645,
+      "second_moment": 0.9876871773330902,
+      "fourth_moment": 2.9205531024510476
+    },
+    {
+      "range": [
+        0.5,
+        1
+      ],
+      "n": 62821,
+      "mean": 0.0013957703543513557,
+      "second_moment": 1.007634949332952,
+      "fourth_moment": 3.060343022824902
+    }
+  ],
+  "interpretation": "Sampling check of the coupling construction; the exact normal marginal follows from radial/azimuthal Gaussian symmetry."
+}

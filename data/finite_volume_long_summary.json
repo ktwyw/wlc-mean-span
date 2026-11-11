@@ -1,0 +1,47 @@
+{
+  "lambda": 100.0,
+  "F_spectral": 11.657592737784787,
+  "spatial_series_Ny": [
+    3200,
+    6400,
+    12800,
+    25600,
+    51200
+  ],
+  "spatial_series_F_at_Nu24": [
+    11.77819464734872,
+    11.714149551378274,
+    11.681653514302738,
+    11.665206754434504,
+    11.656893370359136
+  ],
+  "observed_spatial_orders": [
+    0.978824314707554,
+    0.9824604002561811,
+    0.9842956203108154
+  ],
+  "spatial_limit_observed_order": 11.648395994048895,
+  "spatial_limit_integer_order": 11.648519983522933,
+  "angular_series_Nu": [
+    24,
+    32,
+    48,
+    64
+  ],
+  "angular_series_F_at_Ny1600": [
+    11.903800797074418,
+    11.90766445567172,
+    11.910423821430578,
+    11.911389522094815
+  ],
+  "angular_correction_three_finest": 0.008830445784239416,
+  "angular_correction_two_finest": 0.008830340160130845,
+  "angular_increment_24_to_48_at_Ny1600": 0.0066230243561609115,
+  "angular_increment_24_to_48_at_Ny3200": 0.0067300434924195685,
+  "additivity_defect_rel": 9.180208870377224e-06,
+  "F_fv_observed_order": 11.657226439833135,
+  "rel_diff_observed_order": -3.142140576462005e-05,
+  "F_fv_integer_order": 11.657350429307172,
+  "rel_diff_integer_order": -2.0785464294847955e-05,
+  "angular_model_sensitivity_rel": 9.060541995799241e-09
+}
